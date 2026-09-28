@@ -1,6 +1,9 @@
 #include <iostream>
 
+using namespace std;
+
 int main() {
-    std::cout << "Change done" << std::endl;
+    cout << "Change done" << endl;
+    cout << "Pull change" << endl;
     return 0;
 }
